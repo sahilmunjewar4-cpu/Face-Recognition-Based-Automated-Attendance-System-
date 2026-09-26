@@ -1,4 +1,4 @@
-# AI-Based Face Recognition Attendance Management System
+# Face Recognition-Based Automated Attendance System
 
 An AI-based automated attendance management system developed using Python, OpenCV, Face Recognition, and MySQL. The system captures a student's face through a webcam, identifies the registered student using facial recognition, and automatically records attendance with the student's name, date, and time in a SQL database.
 
